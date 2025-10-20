@@ -1,3 +1,10 @@
+Final Project JCDSOH02-001 
+
+ Alpha Team :
+
+1. Dhika Wahyu Pratama
+2. Novianto Chris Hendarwan
+
 # Hotel Booking Cancellation Prediction System
 
 ## Project Overview
